@@ -10,20 +10,6 @@ public class BoardSize {
         this.height = height;
         this.width = width;
     }
-//
-//    public void callSettings(){
-//        settings();
-//        setup();
-//    }
-
-//    @Override
-//    public void setup() {
-//    }
-//
-//    @Override
-//    public void settings() {
-//        size(width, height);
-//    }
 
     public int getHeight() {
         return height;
