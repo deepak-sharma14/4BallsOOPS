@@ -12,6 +12,7 @@ public class BoardSize {
         this.width = width;
     }
 
+
     public int getHeight() {
         return height;
     }
