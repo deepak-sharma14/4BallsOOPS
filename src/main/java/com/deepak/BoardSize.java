@@ -6,6 +6,7 @@ public class BoardSize {
     final int height;
     final int width;
 
+
     BoardSize(int height, int width){
         this.height = height;
         this.width = width;
